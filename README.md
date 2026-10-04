@@ -9,6 +9,6 @@ Plataforma de apontamento das horas de produção por atividade
 ## Sumário
 
 <ol>
-<li><a href="docs/Projeto/Descritivo.md"> Descritivo</a></li>
+<li><a href="Projeto/Descritivo.md"> Descritivo</a></li>
 
 </ol>
