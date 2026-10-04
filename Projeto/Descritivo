@@ -1,8 +1,6 @@
-# Apontamento da Produção
+#Apontamento da Produção
 
-| Componente | Solução | Função |
-|---|---|---|
-| Código do sistema | GitHub | Guardar o código e seu histórico de alterações |
-| Site acessível por link | Cloudflare Pages | Hospedar as telas do sistema |
-| Banco de dados e login | Supabase | Armazenar apontamentos e autenticar usuários |
-| Interface | HTML, CSS e JavaScript | Formulários, consultas e dashboard |
+Código do sistema | GitHub | Guardar o código e seu histórico de alterações
+Site acessível por link | Cloudflare Pages | Hospedar as telas do sistema
+Banco de dados e login | Supabase | Armazenar apontamentos e autenticar usuários
+Interface | HTML, CSS e JavaScript | Formulários, consultas e dashboard
