@@ -10,5 +10,4 @@ Plataforma de apontamento das horas de produção por atividade
 
 <ol>
 <li><a href="Projeto/Descritivo.md"> Descritivo</a></li>
-
 </ol>
