@@ -6,4 +6,3 @@
 - Banco de dados e login: Supabase
 - Interface: HTML, CSS e JavaScript
 
-## xxxx
