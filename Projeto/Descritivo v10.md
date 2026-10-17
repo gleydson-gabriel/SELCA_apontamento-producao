@@ -18,7 +18,7 @@ Usabilidades, visualização e cadastros
 ** Organize todas as telas e subtelas em um menu de navegação no canto esquerdo para que eu consiga navegar mais livrimente entre as diferentes partes do sistema, desde o apontamento a relatórios
 
 * Criar uma identação na tela de cadastros de tarefas:
-** Criar um pré cadastro da "Família" para que fique organizado as tarefas por áreas e possa existir filtros.
+  ** Criar um pré cadastro da "Família" para que fique organizado as tarefas por áreas e possa existir filtros.
   Atualmente eu sigo a seguinte lógica da tag: Tx.y, onde x é a área e o y é a atividade propriamente dito, por exemplo:
   x=0: Outros
   x=1: Secretaria
