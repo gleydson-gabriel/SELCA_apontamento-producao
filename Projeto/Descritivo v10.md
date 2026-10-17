@@ -20,10 +20,10 @@ Usabilidades, visualização e cadastros
 * Criar uma identação na tela de cadastros de tarefas:
   * Criar um pré cadastro da "Família" para que fique organizado as tarefas por áreas e possa existir filtros.
   Atualmente eu sigo a seguinte lógica da tag: Tx.y, onde x é a área e o y é a atividade propriamente dito, por exemplo:
-  x=0: Outros
-  x=1: Secretaria
-  x=2: Projetos
-  x=3: Serviços
+    * x=0: Outros
+    * x=1: Secretaria
+    * x=2: Projetos
+    * x=3: Serviços
 
   x=0.0: Outras atividades não especificadas (Outros)
   x=0.1: Feriados (Outros)
