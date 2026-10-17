@@ -2,9 +2,9 @@
 
 Visibilidade das atvidades e produção como forma de mensurar os custos da operação
 
-## Sumário
+## Histórico de ajustes
 
 <ol>
-<li><a href="Projeto/Descritivo.md"> Descritivo</a></li>
+<li><a href="Projeto/Descritivo v8.md"> Descritivo</a></li>
 <li><a href="index.html"> Código Fonte da página</a></li>
 </ol>
