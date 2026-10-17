@@ -7,22 +7,21 @@
 - Interface: HTML, CSS e JavaScript
 
 ## Ajustes
+Análise por cliente
 
-### Data: 17/10/2026
-* Commit message: Análise por cliente
-* Extended description: Adicionar recursos para que seja possível analisar os resultados estratificados por clientes
+### Adicionar recursos para que seja possível analisar os resultados estratificados por clientes
 
-### Necessidades:
+#### Necessidades:
 
 * Nos relatório, gostaria de ver a estratificação de custo e horas por clientes. Exemplo: Qual é a despesa indireta das atividades de backoffice do cliente tal? Quanto devo considerar de custo fixo para precificar um atendimento para um serviço do cliente tal?
 
-### Coleta de dados:
+#### Coleta de dados:
 
 * No apontamento, além da atividade, informar o cliente.
 * Ter um correlação da atividade como o cliente.
 * As tarefas terem uma tag que seja possível correlacionar com as análises pretendidas pelo gestor.
 
-### Ajustes no código:
+#### Ajustes no código:
 
 * Na tela de "Cadastro de tarefas" do perfil administrador:
 ** Adicione um campo para cadastro dos clientes.
